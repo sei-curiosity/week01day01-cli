@@ -9,7 +9,8 @@
 ![images](images/intro06-cli.png)
 ![images](images/intro07-cli.png)
 ![images](images/intro08-cli.png)
-
+Terminal = text input/output environment
+Shell = command line interpreter
 ## Objectives
 
 - What is the Command Line and why use it?
